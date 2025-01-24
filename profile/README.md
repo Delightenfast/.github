@@ -29,10 +29,10 @@
 - [EBS 공익방송 <귀하신몸> 아토피해방일지](https://youtu.be/OY4130IZn-8?feature=shared&t=2288)
 
 ### News
-- [딜랏, 환경데이터 공모전 '대상' 수상 - 학신문](http://www.bosa.co.kr/news/articleView.html?idxno=2227617)
-- [딜랏, 환경데이터 공모전서 제품·서비스 부문 대상 수상 - 지닷넷코리아](https://zdnet.co.kr/view/?no=20240723101308)
-- [류형주 딜랏 대표 “초개인화 아토피 솔루션 '에코톤 대상'… 9월 시제품 출시” - 전자신문](https://www.etnews.com/20240719000184)
-- [딜랏, '환경데이터 활용 및 분석 공모전' 대상 - 벤처스퀘어](https://www.venturesquare.net/933584)
+- [딜랏, 환경데이터 공모전 '대상' 수상](http://www.bosa.co.kr/news/articleView.html?idxno=2227617) `의학신문`
+- [딜랏, 환경데이터 공모전서 제품·서비스 부문 대상 수상](https://zdnet.co.kr/view/?no=20240723101308) `지닷넷코리아`
+- [류형주 딜랏 대표 “초개인화 아토피 솔루션 '에코톤 대상'… 9월 시제품 출시”](https://www.etnews.com/20240719000184)`전자신문`
+- [딜랏, '환경데이터 활용 및 분석 공모전' 대상](https://www.venturesquare.net/933584)`벤처스퀘어`
 
 ## 🔗 See you here!
 - [가려움추적기 홈페이지](https://itchtracker.co.kr/)
