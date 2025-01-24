@@ -1,6 +1,8 @@
-![Delight logo](/profile/assets/delight.svg)
-
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/delight.svg" height="300px">
+    <img alt="dimipay logo" src="/profile/assets/delight.svg" height="300px">
+  </picture>
   <p align="center"><b><i>Lightening Fast! 세상을 밝히는 우리!</i></b></p>
   <div align="center">
     <a href="https://play.google.com/store/apps/details?id=com.Delight.todacmvp">Google Play</a>&#9;&#149;&#9;<a href="https://apps.apple.com/app/id6736654359">App Store</a>
